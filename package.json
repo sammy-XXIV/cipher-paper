@@ -1,0 +1,1 @@
+{"name":"cipher-paper","private":true,"type":"module","scripts":{"test":"node --test engine.test.js candles.test.js","dev":"node server.cjs"}}
